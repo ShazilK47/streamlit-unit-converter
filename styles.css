@@ -1,0 +1,16 @@
+.title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #ff4b4b;
+}
+.stRadio > label {
+  font-size: 18px;
+  font-weight: bold;
+  color: #008080;
+}
+
+div[data-baseweb="select"] > div {
+  background-color: #efefef !important;
+  border-radius: 10px;
+}
